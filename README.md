@@ -16,3 +16,8 @@ Then pull down this repo
 3) enjoy
 
 ##Note if you run it for too long the cleverbot gem sometimes craps out.
+
+Credit to:
+@gabrielecirulli creator of cleverbot.
+@neilgupta whose fork of the cleverbot gem I used for compatability reasons.
+@c2h2 creator of tts gem
